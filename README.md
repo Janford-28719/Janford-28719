@@ -1,8 +1,8 @@
 <h1 align="center">Hey there!</h1>
 
-<p>
+<p align="center">
   <a href="https://github.com/Janford-28719">
-    <img 
+    <img width="300"
       src="assets/images/Janford-28719.png"
       style="margin-right:20px; border:1px solid #666; border-radius:12px;">
   </a>
