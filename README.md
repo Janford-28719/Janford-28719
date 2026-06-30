@@ -2,9 +2,9 @@
 
 <p>
   <a href="https://github.com/Janford-28719">
-    <img width="180"
+    <img 
       src="assets/images/Janford-28719.png"
-      style="float:left; margin-right:20px; border:1px solid #666; border-radius:12px;">
+      style="margin-right:20px; border:1px solid #666; border-radius:12px;">
   </a>
 
   I’m a developer focused on Python, animation, and 3D modelling.<br><br>
