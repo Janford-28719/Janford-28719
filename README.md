@@ -18,6 +18,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/MarkDown-3776AB?style=for-the-badge&logo=MarkDown&logoColor=white">
   <img src="https://img.shields.io/badge/Blockbench-00A2FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
